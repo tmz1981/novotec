@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+
+body {
+    margin-top: 0px;
+    margin-left: 0px;
+    font-family: Poppins;
+
+}
+h2 {
+    font-weight: bold;
+}
+
+.inicio {
+    background-color: #7335b7;
+    width: 1285px;
+    height:700px;
+    border-radius: 0px 0px 250px 0px;
+    position: relative; 
+}
+/* Versão 0.0.1 02/05/24 */
+.logo {
+    font-size:30px;
+    color: white;
+    font-weight: bold;
+    padding-left: 30px;
+    padding-top: 15px;
+    display: inline-block;
+  
+}
+.nav {
+    color:white;
+    text-align: center;
+    display: inline-block;
+    margin-left: 280px;
+}
+.faq{
+    text-align: left;
+    display: inline-block;
+    margin-left:250px;
+}
+.imginicio {
+    position: absolute;
+    top:80px;
+    left: 30px;
+    display: inline-block;
+}
+.texinicio {
+    text-align:center;
+    color: white;
+    font-size: 16px;
+    display: inline-block;
+    position: absolute;
+    top: 250px ;
+    left: 600px;
+}
+button{
+    background-color: #7335b7;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+button:hover {
+    background-color:white;
+    color: #7335b7;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+a:link {
+    background-color: orangered;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px ;
+    text-decoration: none;
+    font-size: 16px; 
+}
+a:visited {
+    background-color: orangered;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px ;
+    text-decoration: none;
+    font-size: 16px; 
+}
+a:hover {
+    background-color: white;
+    color: orangered;
+    padding: 10px 20px;
+    border-radius: 5px ;
+    text-decoration: none;
+    font-size: 16px; 
+}
+
+/* Versão 0.0.1 - 03/05/24 */
